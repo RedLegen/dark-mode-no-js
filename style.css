@@ -1,3 +1,4 @@
+/* estilização da página */
 html {
     height: 100%;
     font-family: 'Calibri';
@@ -46,6 +47,7 @@ p {
     margin-top: 2em;
 }
 
+/* parte da estilização do botão */
 input[type=checkbox]{
     height: 0;
     width: 0;
